@@ -1,5 +1,9 @@
 
-xport default function Home() {
+export default function Home() {
   return (
-    <div>
-      <h1>RAFRO
+    <main style={{ padding: "40px", fontFamily: "Arial" }}>
+      <h1>RAFRO TECH</h1>
+      <p>Reliable Appliances At Your Service</p>
+    </main>
+  );
+}
